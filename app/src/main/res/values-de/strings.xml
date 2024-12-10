@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="score">Wertung:</string>
+    <string name="add_button">Addieren</string>
+    <string name="minus_button">Subtrahieren</string>
+    <string name="reset_button">Zurücksetzen</string>
+</resources>
